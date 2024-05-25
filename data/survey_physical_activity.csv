@@ -1,0 +1,251 @@
+ID,Age,Gender,Ethnicity,Education Level,General Health,Fruits_Veg_Servings_Per_Day,Physical_Activity_Per_Week,Chronic_Diseases,Physical_Activity_Level
+1,39,Male,Ethnicity C,Master's,Poor,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+2,31,Male,Ethnicity B,PhD,Good,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+3,57,Male,Ethnicity B,Master's,Good,None,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+4,61,Female,Ethnicity D,High School,Poor,None,1-2 days,Yes,Very active; physical activity is my daily routine
+5,41,Male,Ethnicity A,Bachelor's,Fair,None,Not at all,Yes,Very active; physical activity is my daily routine
+6,28,Female,Ethnicity C,High School,Fair,5 or more servings,1-2 days,No,Very active; physical activity is my daily routine
+7,59,Female,Ethnicity A,PhD,Good,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+8,47,Female,Ethnicity A,High School,Poor,None,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+9,20,Female,Ethnicity A,High School,Excellent,None,5 or more days,Yes,Very active; physical activity is my daily routine
+10,20,Female,Ethnicity C,Master's,Fair,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+11,55,Male,Ethnicity A,PhD,Good,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+12,57,Male,Ethnicity D,Master's,Very good,None,5 or more days,No,Very active; physical activity is my daily routine
+13,28,Male,Ethnicity A,High School,Fair,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+14,47,Female,Ethnicity B,Master's,Poor,1-2 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+15,39,Male,Ethnicity B,Bachelor's,Poor,3-4 servings,Not at all,Yes,Very active; physical activity is my daily routine
+16,48,Male,Ethnicity B,PhD,Good,None,5 or more days,Yes,Very active; physical activity is my daily routine
+17,64,Male,Ethnicity A,Master's,Good,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+18,56,Male,Ethnicity D,Master's,Fair,None,Not at all,Yes,Very active; physical activity is my daily routine
+19,53,Female,Ethnicity A,PhD,Very good,5 or more servings,1-2 days,No,Very active; physical activity is my daily routine
+20,20,Male,Ethnicity A,Bachelor's,Poor,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+21,52,Female,Ethnicity C,Master's,Very good,3-4 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+22,34,Female,Ethnicity D,PhD,Excellent,1-2 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+23,57,Male,Ethnicity A,PhD,Poor,3-4 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+24,37,Female,Ethnicity C,High School,Fair,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+25,52,Male,Ethnicity D,Master's,Excellent,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+26,23,Female,Ethnicity B,Master's,Poor,None,1-2 days,Yes,Very active; physical activity is my daily routine
+27,34,Female,Ethnicity D,PhD,Very good,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+28,25,Male,Ethnicity D,Bachelor's,Good,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+29,33,Female,Ethnicity C,Master's,Very good,None,Not at all,No,Very active; physical activity is my daily routine
+30,50,Female,Ethnicity D,Master's,Excellent,None,Not at all,No,Very active; physical activity is my daily routine
+31,58,Male,Ethnicity D,High School,Fair,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+32,24,Male,Ethnicity A,Bachelor's,Good,5 or more servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+33,33,Other,Ethnicity B,Master's,Poor,1-2 servings,Not at all,Yes,Very active; physical activity is my daily routine
+34,64,Female,Ethnicity D,High School,Fair,5 or more servings,Not at all,No,Very active; physical activity is my daily routine
+35,22,Female,Ethnicity B,PhD,Fair,5 or more servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+36,47,Male,Ethnicity A,PhD,Very good,3-4 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+37,50,Female,Ethnicity D,Master's,Fair,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+38,60,Male,Ethnicity D,Master's,Good,None,1-2 days,Yes,Very active; physical activity is my daily routine
+39,37,Male,Ethnicity B,Master's,Poor,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+40,60,Male,Ethnicity A,Bachelor's,Very good,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+41,45,Male,Ethnicity B,Master's,Fair,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+42,18,Female,Ethnicity C,Master's,Fair,None,Not at all,No,Very active; physical activity is my daily routine
+43,26,Female,Ethnicity B,Master's,Poor,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+44,31,Male,Ethnicity D,Bachelor's,Very good,1-2 servings,5 or more days,No,Very active; physical activity is my daily routine
+45,22,Male,Ethnicity A,Bachelor's,Fair,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+46,61,Female,Ethnicity D,Bachelor's,Very good,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+47,23,Male,Ethnicity D,PhD,Very good,None,5 or more days,Yes,Very active; physical activity is my daily routine
+48,40,Female,Ethnicity C,PhD,Good,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+49,41,Male,Ethnicity D,PhD,Poor,5 or more servings,1-2 days,No,Very active; physical activity is my daily routine
+50,22,Male,Ethnicity C,PhD,Poor,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+51,64,Female,Ethnicity B,Master's,Very good,None,Not at all,Yes,Very active; physical activity is my daily routine
+52,44,Female,Ethnicity A,Master's,Poor,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+53,27,Male,Ethnicity B,Bachelor's,Very good,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+54,49,Male,Ethnicity A,High School,Good,1-2 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+55,61,Male,Ethnicity A,Master's,Poor,None,1-2 days,No,Very active; physical activity is my daily routine
+56,26,Female,Ethnicity A,Bachelor's,Good,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+57,31,Male,Ethnicity C,Bachelor's,Very good,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+58,47,Male,Ethnicity B,Master's,Good,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+59,42,Female,Ethnicity D,Bachelor's,Excellent,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+60,28,Male,Ethnicity C,PhD,Good,3-4 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+61,20,Female,Ethnicity D,Bachelor's,Fair,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+62,32,Male,Ethnicity C,High School,Very good,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+63,64,Male,Ethnicity A,PhD,Excellent,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+64,57,Female,Ethnicity C,Master's,Fair,5 or more servings,Not at all,Yes,Very active; physical activity is my daily routine
+65,52,Male,Ethnicity B,Master's,Excellent,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+66,62,Male,Ethnicity A,PhD,Poor,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+67,53,Male,Ethnicity C,High School,Good,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+68,47,Male,Ethnicity B,High School,Excellent,None,3-4 days,No,Very active; physical activity is my daily routine
+69,56,Female,Ethnicity A,Bachelor's,Good,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+70,56,Male,Ethnicity C,Bachelor's,Poor,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+71,31,Male,Ethnicity B,Master's,Poor,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+72,38,Female,Ethnicity A,Bachelor's,Very good,None,Not at all,Yes,Very active; physical activity is my daily routine
+73,40,Male,Ethnicity D,Master's,Good,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+74,22,Female,Ethnicity C,Master's,Excellent,5 or more servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+75,26,Male,Ethnicity A,Bachelor's,Poor,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+76,31,Female,Ethnicity B,PhD,Fair,5 or more servings,Not at all,Yes,Very active; physical activity is my daily routine
+77,33,Male,Ethnicity D,Bachelor's,Excellent,5 or more servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+78,43,Female,Ethnicity C,PhD,Poor,1-2 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+79,35,Female,Ethnicity A,Master's,Good,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+80,48,Female,Ethnicity C,Master's,Very good,1-2 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+81,27,Female,Ethnicity A,Bachelor's,Fair,5 or more servings,Not at all,No,Very active; physical activity is my daily routine
+82,56,Male,Ethnicity A,Master's,Excellent,3-4 servings,1-2 days,No,Very active; physical activity is my daily routine
+83,32,Female,Ethnicity C,High School,Excellent,5 or more servings,Not at all,No,Very active; physical activity is my daily routine
+84,39,Male,Ethnicity A,PhD,Good,3-4 servings,5 or more days,No,Very active; physical activity is my daily routine
+85,42,Female,Ethnicity D,PhD,Poor,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+86,38,Male,Ethnicity A,PhD,Very good,None,3-4 days,Yes,Very active; physical activity is my daily routine
+87,31,Female,Ethnicity D,Bachelor's,Very good,1-2 servings,Not at all,Yes,Very active; physical activity is my daily routine
+88,53,Female,Ethnicity C,PhD,Good,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+89,23,Other,Ethnicity A,High School,Excellent,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+90,39,Female,Ethnicity C,Bachelor's,Fair,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+91,19,Female,Ethnicity C,Master's,Very good,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+92,55,Female,Ethnicity D,PhD,Poor,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+93,26,Male,Ethnicity A,Bachelor's,Good,1-2 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+94,31,Female,Ethnicity B,Bachelor's,Excellent,3-4 servings,Not at all,No,Very active; physical activity is my daily routine
+95,46,Female,Ethnicity A,Master's,Poor,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+96,44,Female,Ethnicity C,Bachelor's,Very good,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+97,30,Male,Ethnicity A,High School,Excellent,1-2 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+98,18,Female,Ethnicity A,High School,Excellent,None,5 or more days,No,Very active; physical activity is my daily routine
+99,30,Male,Ethnicity D,Master's,Good,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+100,22,Male,Ethnicity B,PhD,Poor,None,1-2 days,Yes,Very active; physical activity is my daily routine
+101,48,Female,Ethnicity B,High School,Fair,1-2 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+102,28,Male,Ethnicity B,PhD,Good,1-2 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+103,45,Male,Ethnicity A,Master's,Very good,3-4 servings,Not at all,No,Very active; physical activity is my daily routine
+104,47,Male,Ethnicity C,Master's,Very good,1-2 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+105,23,Male,Ethnicity C,Master's,Fair,3-4 servings,1-2 days,No,Very active; physical activity is my daily routine
+106,32,Male,Ethnicity A,High School,Excellent,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+107,20,Female,Ethnicity B,High School,Poor,5 or more servings,Not at all,Yes,Very active; physical activity is my daily routine
+108,46,Male,Ethnicity A,Bachelor's,Good,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+109,56,Female,Ethnicity D,High School,Fair,3-4 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+110,22,Female,Ethnicity D,Master's,Good,None,5 or more days,No,Very active; physical activity is my daily routine
+111,42,Male,Ethnicity C,Master's,Poor,1-2 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+112,43,Male,Ethnicity D,High School,Poor,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+113,63,Male,Ethnicity C,PhD,Excellent,3-4 servings,1-2 days,No,Very active; physical activity is my daily routine
+114,36,Female,Ethnicity D,Bachelor's,Very good,1-2 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+115,24,Male,Ethnicity A,Master's,Excellent,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+116,22,Female,Ethnicity B,PhD,Poor,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+117,48,Female,Ethnicity C,PhD,Poor,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+118,46,Female,Ethnicity A,High School,Excellent,3-4 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+119,27,Male,Ethnicity C,PhD,Fair,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+120,60,Female,Ethnicity D,Master's,Good,5 or more servings,Not at all,Yes,Very active; physical activity is my daily routine
+121,36,Male,Ethnicity A,PhD,Poor,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+122,21,Female,Ethnicity C,Master's,Poor,3-4 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+123,52,Female,Ethnicity B,PhD,Very good,None,5 or more days,No,Very active; physical activity is my daily routine
+124,34,Male,Ethnicity D,High School,Good,None,Not at all,Yes,Very active; physical activity is my daily routine
+125,37,Female,Ethnicity D,High School,Fair,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+126,61,Male,Ethnicity C,High School,Very good,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+127,32,Male,Ethnicity C,Master's,Good,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+128,33,Female,Ethnicity D,High School,Very good,5 or more servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+129,42,Female,Ethnicity B,PhD,Excellent,3-4 servings,Not at all,Yes,Very active; physical activity is my daily routine
+130,43,Female,Ethnicity D,PhD,Poor,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+131,63,Male,Ethnicity C,Bachelor's,Excellent,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+132,58,Male,Ethnicity C,Master's,Good,5 or more servings,5 or more days,No,Very active; physical activity is my daily routine
+133,25,Female,Ethnicity C,Master's,Poor,5 or more servings,5 or more days,Yes,Very active; physical activity is my daily routine
+134,40,Female,Ethnicity A,Master's,Very good,5 or more servings,Not at all,Yes,Very active; physical activity is my daily routine
+135,31,Male,Ethnicity D,Master's,Good,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+136,23,Female,Ethnicity C,PhD,Poor,None,1-2 days,Yes,Very active; physical activity is my daily routine
+137,35,Female,Ethnicity C,High School,Very good,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+138,59,Male,Ethnicity D,PhD,Very good,None,3-4 days,No,Very active; physical activity is my daily routine
+139,40,Male,Ethnicity D,High School,Excellent,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+140,64,Female,Ethnicity D,Bachelor's,Excellent,None,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+141,51,Female,Ethnicity A,PhD,Excellent,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+142,30,Female,Ethnicity A,Master's,Good,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+143,19,Female,Ethnicity A,Bachelor's,Fair,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+144,23,Female,Ethnicity C,Master's,Excellent,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+145,43,Female,Ethnicity B,High School,Good,3-4 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+146,52,Male,Ethnicity A,Bachelor's,Good,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+147,19,Female,Ethnicity A,PhD,Excellent,5 or more servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+148,40,Female,Ethnicity A,High School,Excellent,None,3-4 days,No,Very active; physical activity is my daily routine
+149,18,Male,Ethnicity A,PhD,Excellent,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+150,33,Female,Ethnicity C,High School,Very good,3-4 servings,5 or more days,No,Very active; physical activity is my daily routine
+151,37,Female,Ethnicity D,Bachelor's,Excellent,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+152,57,Male,Ethnicity B,Bachelor's,Poor,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+153,41,Female,Ethnicity C,PhD,Excellent,3-4 servings,Not at all,No,Very active; physical activity is my daily routine
+154,28,Male,Ethnicity C,Master's,Good,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+155,63,Male,Ethnicity C,PhD,Very good,3-4 servings,5 or more days,No,Very active; physical activity is my daily routine
+156,35,Female,Ethnicity C,PhD,Poor,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+157,27,Female,Ethnicity C,Master's,Fair,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+158,20,Female,Ethnicity B,Master's,Poor,3-4 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+159,60,Female,Ethnicity B,PhD,Excellent,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+160,37,Male,Ethnicity C,Bachelor's,Excellent,5 or more servings,3-4 days,No,Very active; physical activity is my daily routine
+161,31,Male,Ethnicity D,Bachelor's,Fair,3-4 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+162,34,Male,Ethnicity C,Master's,Poor,None,3-4 days,Yes,Very active; physical activity is my daily routine
+163,39,Male,Ethnicity A,High School,Very good,None,1-2 days,No,Very active; physical activity is my daily routine
+164,26,Other,Ethnicity C,High School,Poor,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+165,62,Female,Ethnicity C,PhD,Very good,1-2 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+166,39,Male,Ethnicity A,High School,Very good,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+167,58,Male,Ethnicity A,Master's,Good,5 or more servings,3-4 days,Yes,Very active; physical activity is my daily routine
+168,33,Male,Ethnicity B,PhD,Excellent,1-2 servings,Not at all,Yes,Very active; physical activity is my daily routine
+169,44,Male,Ethnicity B,PhD,Very good,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+170,52,Male,Ethnicity A,PhD,Fair,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+171,34,Male,Ethnicity D,Bachelor's,Very good,1-2 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+172,54,Male,Ethnicity D,Master's,Good,None,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+173,54,Male,Ethnicity A,Bachelor's,Very good,None,Not at all,No,Very active; physical activity is my daily routine
+174,37,Male,Ethnicity C,PhD,Poor,None,1-2 days,Yes,Very active; physical activity is my daily routine
+175,44,Male,Ethnicity C,Master's,Very good,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+176,42,Male,Ethnicity D,PhD,Very good,1-2 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+177,59,Female,Ethnicity D,PhD,Poor,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+178,30,Male,Ethnicity D,Master's,Fair,3-4 servings,3-4 days,Yes,Very active; physical activity is my daily routine
+179,55,Male,Ethnicity A,High School,Excellent,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+180,61,Male,Ethnicity D,PhD,Very good,5 or more servings,5 or more days,Yes,Very active; physical activity is my daily routine
+181,32,Female,Ethnicity C,PhD,Excellent,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+182,29,Female,Ethnicity D,Master's,Good,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+183,30,Female,Ethnicity D,Master's,Very good,None,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+184,57,Female,Ethnicity C,High School,Very good,None,Not at all,No,Very active; physical activity is my daily routine
+185,37,Male,Ethnicity C,High School,Poor,3-4 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+186,36,Female,Ethnicity C,Bachelor's,Good,3-4 servings,3-4 days,No,Very active; physical activity is my daily routine
+187,35,Male,Ethnicity A,Master's,Very good,None,5 or more days,No,Very active; physical activity is my daily routine
+188,53,Male,Ethnicity C,Bachelor's,Very good,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+189,63,Female,Ethnicity C,Master's,Very good,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+190,19,Female,Ethnicity D,Bachelor's,Good,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+191,59,Male,Ethnicity B,Bachelor's,Good,1-2 servings,Not at all,No,Very active; physical activity is my daily routine
+192,60,Female,Ethnicity C,High School,Fair,5 or more servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+193,59,Male,Ethnicity C,Bachelor's,Excellent,None,5 or more days,Yes,Very active; physical activity is my daily routine
+194,38,Female,Ethnicity D,Bachelor's,Poor,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+195,31,Female,Ethnicity C,PhD,Good,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+196,29,Male,Ethnicity A,Bachelor's,Good,1-2 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+197,47,Male,Ethnicity B,High School,Fair,None,1-2 days,No,Very active; physical activity is my daily routine
+198,37,Male,Ethnicity A,PhD,Poor,5 or more servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+199,22,Male,Ethnicity C,Bachelor's,Excellent,3-4 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+200,33,Male,Ethnicity B,High School,Good,5 or more servings,Not at all,No,Very active; physical activity is my daily routine
+201,64,Female,Ethnicity D,PhD,Poor,1-2 servings,3-4 days,No,Very active; physical activity is my daily routine
+202,50,Male,Ethnicity A,PhD,Very good,None,1-2 days,Yes,Very active; physical activity is my daily routine
+203,32,Female,Ethnicity D,Master's,Very good,None,5 or more days,Yes,Very active; physical activity is my daily routine
+204,29,Female,Ethnicity B,High School,Fair,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+205,46,Male,Ethnicity D,Bachelor's,Excellent,None,5 or more days,No,Very active; physical activity is my daily routine
+206,33,Female,Ethnicity B,High School,Excellent,None,1-2 days,No,Very active; physical activity is my daily routine
+207,31,Male,Ethnicity D,High School,Poor,None,3-4 days,No,Very active; physical activity is my daily routine
+208,21,Male,Ethnicity A,PhD,Excellent,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+209,64,Male,Ethnicity D,Bachelor's,Fair,None,3-4 days,No,Very active; physical activity is my daily routine
+210,60,Female,Ethnicity C,Master's,Good,None,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+211,20,Female,Ethnicity D,Bachelor's,Very good,None,Not at all,Yes,Very active; physical activity is my daily routine
+212,59,Male,Ethnicity B,High School,Good,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+213,29,Male,Ethnicity A,Master's,Excellent,None,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+214,45,Male,Ethnicity A,PhD,Poor,3-4 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+215,29,Male,Ethnicity A,High School,Fair,1-2 servings,1-2 days,No,Very active; physical activity is my daily routine
+216,40,Female,Ethnicity C,Bachelor's,Fair,1-2 servings,Not at all,Yes,Very active; physical activity is my daily routine
+217,63,Male,Ethnicity C,PhD,Good,3-4 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+218,64,Male,Ethnicity C,Master's,Good,1-2 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+219,20,Female,Ethnicity C,High School,Very good,3-4 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+220,61,Male,Ethnicity D,Bachelor's,Fair,None,5 or more days,No,Very active; physical activity is my daily routine
+221,25,Female,Ethnicity B,Master's,Poor,1-2 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+222,58,Female,Ethnicity D,PhD,Very good,3-4 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+223,64,Female,Ethnicity D,Master's,Fair,None,Not at all,Yes,Very active; physical activity is my daily routine
+224,32,Male,Ethnicity A,Master's,Fair,1-2 servings,5 or more days,Yes,Very active; physical activity is my daily routine
+225,60,Male,Ethnicity A,High School,Good,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+226,47,Male,Ethnicity B,Master's,Poor,1-2 servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+227,25,Female,Ethnicity A,Bachelor's,Poor,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+228,54,Female,Ethnicity D,High School,Very good,3-4 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+229,35,Female,Ethnicity B,High School,Excellent,1-2 servings,1-2 days,Yes,Very active; physical activity is my daily routine
+230,41,Female,Ethnicity A,PhD,Excellent,None,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+231,64,Male,Ethnicity A,Bachelor's,Poor,None,Not at all,Yes,Very active; physical activity is my daily routine
+232,61,Male,Ethnicity B,Master's,Fair,5 or more servings,Not at all,Prefer not to say,Very active; physical activity is my daily routine
+233,43,Male,Ethnicity A,PhD,Good,None,1-2 days,Yes,Very active; physical activity is my daily routine
+234,23,Male,Ethnicity D,High School,Fair,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+235,28,Female,Ethnicity A,Bachelor's,Excellent,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+236,24,Male,Ethnicity B,PhD,Excellent,1-2 servings,5 or more days,Prefer not to say,Very active; physical activity is my daily routine
+237,29,Female,Ethnicity B,Bachelor's,Good,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+238,29,Male,Ethnicity A,High School,Excellent,5 or more servings,1-2 days,Yes,Very active; physical activity is my daily routine
+239,28,Female,Ethnicity C,Bachelor's,Very good,3-4 servings,1-2 days,Prefer not to say,Very active; physical activity is my daily routine
+240,51,Male,Ethnicity C,Bachelor's,Good,None,5 or more days,Yes,Very active; physical activity is my daily routine
+241,27,Male,Ethnicity A,Bachelor's,Very good,None,1-2 days,Yes,Very active; physical activity is my daily routine
+242,27,Male,Ethnicity A,Master's,Good,1-2 servings,5 or more days,No,Very active; physical activity is my daily routine
+243,64,Other,Ethnicity B,High School,Very good,None,Not at all,Yes,Very active; physical activity is my daily routine
+244,25,Male,Ethnicity D,High School,Poor,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+245,61,Male,Ethnicity C,High School,Fair,None,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+246,36,Female,Ethnicity D,Master's,Good,1-2 servings,3-4 days,Prefer not to say,Very active; physical activity is my daily routine
+247,58,Female,Ethnicity B,Bachelor's,Good,None,3-4 days,Yes,Very active; physical activity is my daily routine
+248,53,Male,Ethnicity D,Bachelor's,Poor,1-2 servings,Not at all,Yes,Very active; physical activity is my daily routine
+249,35,Male,Ethnicity C,Master's,Good,5 or more servings,1-2 days,No,Very active; physical activity is my daily routine
+250,48,Male,Ethnicity B,PhD,Poor,5 or more servings,5 or more days,No,Rarely active; I seldom engage in physical activities.
