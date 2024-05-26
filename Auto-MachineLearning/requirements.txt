@@ -5,3 +5,7 @@ stopit
 tpot
 setuptools
 graphviz
+plotly
+tensorflow
+nbformat
+jinja2
