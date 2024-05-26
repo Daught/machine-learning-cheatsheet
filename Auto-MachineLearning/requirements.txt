@@ -4,3 +4,4 @@ tqdm
 stopit
 tpot
 setuptools
+graphviz
