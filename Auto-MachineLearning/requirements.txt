@@ -9,3 +9,4 @@ plotly
 tensorflow
 nbformat
 jinja2
+nltk
