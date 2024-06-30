@@ -1,0 +1,7919 @@
+[
+    {
+        "accuracy": 3,
+        "data": [
+            -12.335226,
+            -4.3742065,
+            2.4947581
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842057817955
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.84347,
+            1.0271125,
+            9.251494
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344840611403000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.276278,
+            -4.6591167,
+            1.9153614
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844046497016
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.480561,
+            -4.6112323,
+            0.59615624
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344843504153355
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.174815,
+            -4.9251723,
+            0.088585466
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844408070944
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.564359,
+            -3.6511576,
+            2.9041667
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344841877022830
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9376855,
+            0.6775591,
+            10.666468
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344840973003500
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.318532,
+            -4.908413,
+            1.2210429
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844588859807
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.86758,
+            -3.2752678,
+            4.2161894
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344841696221116
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.280225,
+            -3.7469256,
+            0.7398083
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842961789718
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.1254435,
+            -0.62967503,
+            3.478775
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344841334606916
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.856451,
+            -5.6410384,
+            -1.532289
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344845131224391
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.367258,
+            -8.004115,
+            0.31364042
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844950435911
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.952219,
+            -4.560954,
+            0.38067806
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844227282516
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.432677,
+            -4.5154643,
+            -0.16280572
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344843865713595
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.676044,
+            -5.9139776,
+            1.9895816
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344843142582218
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.799767,
+            -5.3657055,
+            -1.8148049
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842780993026
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.430284,
+            -5.480627,
+            -0.1412579
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344845673586509
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.213187,
+            -5.394436,
+            -1.484405
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344847481462715
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.825158,
+            1.7884687,
+            10.319308
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344840792187000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.791032,
+            -4.158728,
+            0.78529817
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846396732783
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.3824,
+            -6.938696,
+            -0.4165911
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344843684934707
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.052,
+            -8.016087,
+            -0.29209262
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344847300671082
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.77589,
+            -5.4710503,
+            0.58418524
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344847119881549
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.3840175,
+            -5.3680997,
+            2.2026656
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344845854372784
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.276278,
+            -6.5340757,
+            0.58418524
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846035159684
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.170092,
+            -3.7660792,
+            -0.14604631
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344845312013044
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.024822,
+            -4.7668557,
+            0.4189853
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846577519783
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.00968,
+            -4.6255975,
+            0.7134721
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846215947150
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.150162,
+            -3.8642416,
+            0.02873042
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344847662255748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.030387,
+            -5.834969,
+            0.6440403
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848747037847
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.201217,
+            -5.3920417,
+            2.018312
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842238611399
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.448661,
+            -5.6769514,
+            2.4708161
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344843323370418
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.335123,
+            2.4612393,
+            7.838916
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344840430644000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.144532,
+            -5.8206034,
+            1.3814543
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344849651046212
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.588301,
+            -7.285855,
+            1.721431
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850012647278
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.5570073,
+            0.6440403,
+            6.1869164
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344841153806166
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.5994954,
+            -8.269872,
+            -0.7326257
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842600198526
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.0495405,
+            -4.9419317,
+            0.272939
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344845492800081
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.550835,
+            -4.980239,
+            -0.17717093
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850193449278
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.560412,
+            -8.162133,
+            7.2690954
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344849289444446
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.11179,
+            -4.3143516,
+            4.663905
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344841515416116
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.148609,
+            -5.988198,
+            1.7764976
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344842419404799
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.8923645,
+            -3.787627,
+            0.8475474
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848023846047
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.763854,
+            -5.284302,
+            -0.17477672
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344847843050081
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.9594674,
+            -5.7392006,
+            1.4628572
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344849470245179
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.329727,
+            -4.4196963,
+            0.62009823
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344851459097910
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.57633,
+            -5.5835776,
+            3.1292217
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848204642647
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.047212,
+            -4.709395,
+            0.6607997
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848927839580
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.6138606,
+            -6.2850785,
+            0.2681506
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863029780626
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.040805,
+            -5.6889224,
+            0.7230489
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846939093249
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.9434843,
+            -5.732018,
+            1.6208745
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344844769648328
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.204387,
+            -5.9738326,
+            0.7661445
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344846758305649
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.158121,
+            -7.561188,
+            2.336741
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863391299992
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.4175363,
+            -6.5819597,
+            0.08379706
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344851820708510
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.063971,
+            -5.6913166,
+            1.4053963
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848566236847
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.4462667,
+            -6.4742208,
+            1.6304513
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850916673377
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.968137,
+            -6.426337,
+            1.4173675
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344862849018093
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.346486,
+            -6.6537857,
+            1.5658079
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852182314276
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.899547,
+            -5.4638677,
+            -0.23942018
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852363112442
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.597943,
+            -5.6673746,
+            0.110133275
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344854351871606
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.059958,
+            -5.0951605,
+            1.0103531
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850374253711
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.482956,
+            -5.1765633,
+            0.6655881
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853809485673
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.607454,
+            -5.550059,
+            2.6503813
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344849108641746
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.658574,
+            -6.107908,
+            0.22744916
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344864837329290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.379229,
+            -5.210082,
+            -0.05267244
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863752812492
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.24593,
+            -5.348946,
+            1.9009962
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853086299708
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.116643,
+            -4.7309427,
+            1.8722657
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853628689740
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.2874727,
+            -5.1430445,
+            0.61052144
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852001511710
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.95856,
+            -5.650615,
+            -0.6799533
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855075066338
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.419088,
+            -5.56203,
+            2.5929205
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344864114326258
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.985738,
+            -5.308244,
+            3.1794999
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344864295081258
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.103054,
+            -4.381389,
+            0.7733272
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850555058144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.1868515,
+            -5.406407,
+            0.07182605
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344851278291710
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7926493,
+            -5.2866964,
+            -1.508347
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863572057392
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.874829,
+            -4.9155955,
+            2.6384103
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344849831846012
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.490204,
+            -6.842928,
+            1.3096284
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344864656583890
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.94109,
+            -6.344934,
+            2.2577322
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863210541392
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.332963,
+            -5.609914,
+            0.25378537
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344848385438547
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.588301,
+            -4.3861775,
+            0.6655881
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852905501875
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.362404,
+            -4.096479,
+            1.4700398
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853990280773
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.982568,
+            -4.759673,
+            1.6591818
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853447894074
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.917859,
+            -5.4471083,
+            1.0773908
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867367501285
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.5037274,
+            -4.0462008,
+            0.04309563
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852543909342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.672098,
+            -8.437466,
+            1.3455414
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344854532669606
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.775048,
+            -5.5596356,
+            1.1899183
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344863933569458
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.3576813,
+            -5.4878097,
+            1.3215994
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344851097483277
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.237971,
+            -4.7524905,
+            0.40462008
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344854894267872
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.352051,
+            -5.832575,
+            0.23942018
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344852724706242
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.502951,
+            -6.8357453,
+            -0.19393034
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344853267097208
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.1757216,
+            -6.064812,
+            0.7062895
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855255865238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.692028,
+            -5.2172647,
+            0.15322891
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344854713468539
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.238748,
+            -5.444714,
+            1.5275006
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344850735864177
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.072706,
+            -6.095937,
+            -0.36631286
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868090366183
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.736741,
+            -4.620809,
+            1.2497733
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868271089216
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.523658,
+            -4.2042184,
+            1.6376339
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344856883066835
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.450213,
+            -6.088754,
+            1.6807296
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344854171075206
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.0193224,
+            -5.904401,
+            -1.3503298
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344856702260002
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.699986,
+            -4.225766,
+            -0.7015011
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857425478634
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.728782,
+            -5.758354,
+            2.3798366
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855436663438
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.2066126,
+            -5.7368064,
+            -0.23942018
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857967893866
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.995315,
+            -5.0472765,
+            1.3383588
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344858691086699
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.248324,
+            -5.909189,
+            0.06703765
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344856521455569
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.604284,
+            -7.628226,
+            0.581791
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855617460771
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.996868,
+            -6.6178727,
+            0.81402856
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344851639903710
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.555493,
+            -6.038476,
+            0.79487497
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868451815549
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.04637,
+            -5.195717,
+            1.8914193
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857244674301
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.059958,
+            -4.321534,
+            -0.08379706
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344858148695766
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.893206,
+            -4.6782703,
+            -0.50517654
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855979055570
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.439084,
+            -7.0272813,
+            1.3072342
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344858871877132
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.225159,
+            -5.346552,
+            -2.1308396
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344855798257237
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.103054,
+            -7.046435,
+            -0.11731588
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868632544549
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.108684,
+            -5.028123,
+            2.755726
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857063871068
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.303326,
+            -5.4135895,
+            1.2210429
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859595031031
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.838074,
+            -4.898836,
+            0.89782566
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344856340653736
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.212411,
+            -8.0089035,
+            1.7405846
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857787089500
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.584289,
+            -5.0017867,
+            -0.3878607
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344856159854203
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.000103,
+            -5.4471083,
+            0.8331822
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859414241131
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.064036,
+            -6.098331,
+            0.49081135
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859052666365
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.005669,
+            -5.614702,
+            1.6519991
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344858510293666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.087913,
+            -4.498705,
+            0.11492168
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344860498968063
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.144532,
+            -5.336975,
+            1.0510546
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344858329497666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.670545,
+            -5.89243,
+            0.49320555
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859956610464
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.9235544,
+            -7.144597,
+            0.6943185
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344860137398330
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.010457,
+            -6.064812,
+            0.021547815
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344860318183930
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.591472,
+            -5.1167083,
+            1.6496049
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344857606284134
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.801385,
+            -4.582502,
+            -0.82121116
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859233453031
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.397541,
+            -5.5476646,
+            0.61530983
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344859775821331
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.728006,
+            -6.4694324,
+            0.3184288
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868813276215
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.891588,
+            -6.7327943,
+            1.1923125
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861945181194
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.232406,
+            -5.978621,
+            2.0111294
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344862125949494
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.241141,
+            -5.815815,
+            -0.79487497
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344860860530463
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.6138606,
+            -8.808567,
+            1.0175357
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861222089329
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.82138,
+            -6.2252235,
+            1.8459295
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861041310463
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.564294,
+            -6.256348,
+            0.12210429
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344869536219314
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.50211,
+            -6.9003887,
+            -4.0318356
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870259180379
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.304232,
+            -5.11192,
+            2.0207062
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344869355482981
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.846874,
+            -6.3114147,
+            -1.6903064
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861402865495
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.571476,
+            -7.400777,
+            0.7374141
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344860679750263
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.4814034,
+            -7.7862434,
+            0.7517793
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870078437246
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.238682,
+            -7.5899186,
+            0.8762778
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344869174747415
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.5516114,
+            -6.5053453,
+            0.35913026
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344869897696280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3250036,
+            -6.4694324,
+            -1.0319009
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344868994010215
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.052776,
+            -6.6992755,
+            -1.0702082
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344862487485127
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.370428,
+            -7.376835,
+            0.9552865
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344862306715994
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.1015015,
+            -5.219659,
+            0.85473
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870439921112
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.9298954,
+            -4.4915223,
+            -0.8475474
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861583639428
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.112566,
+            -6.682516,
+            1.3455414
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344861764411628
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.929119,
+            -5.0233345,
+            1.4460979
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344862668253060
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.964126,
+            -5.39683,
+            0.088585466
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870620661378
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.123826,
+            -6.9698205,
+            1.6759412
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870982147011
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.739136,
+            -6.5053453,
+            -0.61291564
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344870801403411
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.805397,
+            -6.622661,
+            -0.24181437
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344869716957614
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.312967,
+            -6.3114147,
+            -2.9759927
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344871343643077
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.025663,
+            -5.372888,
+            1.5801731
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344866102471854
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.033623,
+            -6.110302,
+            0.62009823
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865379548789
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.657798,
+            -7.0751653,
+            1.1731589
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344871162894677
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.797307,
+            -5.0712185,
+            0.32561144
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344871705139443
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.047146,
+            -5.96665,
+            1.1971009
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344866283196520
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.329727,
+            -4.630386,
+            0.7685388
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344871524391843
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.2012815,
+            -6.9195423,
+            1.6208745
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865741015255
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.261071,
+            -5.698499,
+            1.6280571
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865921744588
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.32015,
+            -5.4040127,
+            0.60812724
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865018072390
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.3935943,
+            -7.1134725,
+            2.1404164
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344864475833424
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.3880296,
+            -6.6154785,
+            0.61770403
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344866644638253
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.4335194,
+            -7.0871363,
+            0.35434186
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865560283255
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.539576,
+            -6.4981627,
+            1.8483237
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344865198811823
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.504569,
+            -7.0560117,
+            1.6950948
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344866825356286
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.537246,
+            -6.347328,
+            0.7158663
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872066635909
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.9099655,
+            -7.178116,
+            1.2761095
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872247381409
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.849269,
+            -5.7008934,
+            -1.3263878
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872428125709
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.038411,
+            -5.930737,
+            -0.16280572
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344871885887943
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.290578,
+            -5.5093575,
+            0.25617957
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872789610742
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7854667,
+            -4.4244847,
+            0.088585466
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872608869209
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1693807,
+            -7.668927,
+            0.50996494
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867909646417
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.86441,
+            -5.4016185,
+            0.9888053
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867186787752
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.578724,
+            -5.6290674,
+            0.21068975
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867006073252
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.266636,
+            -5.602731,
+            -0.32561144
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344866463918553
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.261071,
+            -4.7429137,
+            4.307169
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874235423807
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.930737,
+            -6.8716583,
+            1.0199299
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867728930851
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.363246,
+            -4.2880154,
+            0.94331545
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344875138970639
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.838074,
+            0.62009823,
+            2.1308396
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876042446137
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.9099655,
+            -0.031124622,
+            5.7008934
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876223133403
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.395923,
+            -1.2425907,
+            1.7764976
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344875861756204
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.7248354,
+            0.830788,
+            7.5779476
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876403818769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.46296,
+            -6.5580177,
+            1.2186487
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344867548215785
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3250036,
+            2.0757728,
+            9.55077
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876765185335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.292973,
+            -4.675876,
+            1.7836803
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344872970347308
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.234024,
+            -5.5835776,
+            2.4253263
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344873331812674
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.024046,
+            -3.1028855,
+            -2.1883004
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344873693265607
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.655273,
+            -5.7511716,
+            2.2050598
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344873512540674
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.468591,
+            -5.3992243,
+            2.2864625
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344873151081008
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.064812,
+            -4.685453,
+            -0.60573304
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344873873986007
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.428665,
+            -11.61936,
+            0.31124622
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874777559973
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.428665,
+            -4.261679,
+            -1.8267759
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874054705907
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.467749,
+            -4.2880154,
+            -1.2785037
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344875500371905
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.455778,
+            -3.715801,
+            1.7190368
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344875681065738
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.268319,
+            -6.0073514,
+            0.6703765
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874596849673
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.206846,
+            -5.791873,
+            1.328782
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874416138840
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.825327,
+            -7.728782,
+            3.4356794
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344874958267639
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.960178,
+            -3.7469256,
+            -1.970428
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344875319673472
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.476615,
+            2.5258827,
+            7.609072
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876584502202
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4596214,
+            2.5929205,
+            8.063971
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344876945868068
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.405499,
+            -7.4558434,
+            3.5936968
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344883811201500
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.182839,
+            -9.328109,
+            2.9975405
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344884172538666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0597897,
+            1.9752164,
+            7.070377
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344883630534000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.7868507,
+            2.3582888,
+            7.728782
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344883269130000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.90979666,
+            2.6767175,
+            8.178892
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344883449832000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -18.153437,
+            -10.759842,
+            -5.96665
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344896281137042
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.5189342,
+            -6.2874727,
+            1.1348516
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897908074139
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.7272296,
+            -2.4013844,
+            -0.31603462
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897546552706
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.138125,
+            -5.585972,
+            2.1739352
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897365786373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.913071,
+            -6.9913683,
+            2.719813
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898269581272
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.0312934,
+            -7.4342957,
+            0.19393034
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902064956565
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.19871874,
+            -5.3393693,
+            -2.111686
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902245677498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.212411,
+            -5.0855837,
+            2.4277205
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344901703517265
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.321703,
+            -2.4588451,
+            -2.2409728
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902607120097
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.322544,
+            -2.4660277,
+            -2.0925324
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885075880821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.061511,
+            -7.2690954,
+            5.207688
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344883991861166
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.806884,
+            -11.695974,
+            -1.3958195
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889592690121
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.809175,
+            -6.9722147,
+            -1.0869676
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344888869889223
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4404678,
+            -2.8802247,
+            -1.9369092
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887966465655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0358477,
+            -4.2784386,
+            -0.06703765
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889954110587
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.2680852,
+            -4.501099,
+            -1.3742718
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344886159799246
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.000038,
+            -14.288895,
+            2.846706
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889231281555
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.4861917,
+            -2.0231004,
+            0.8595184
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344886701776590
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.05517,
+            -5.2890906,
+            3.5410242
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344888508510958
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.2640734,
+            -10.731112,
+            -1.0295067
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887243771635
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.4175363,
+            -1.3814543,
+            -1.316811
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889411985788
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.8338933,
+            -4.307169,
+            0.842759
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344886340456058
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.273753,
+            -13.13489,
+            -0.9888053
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885617839702
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4500446,
+            -6.988974,
+            1.0127473
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889773398087
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.184392,
+            -14.787189,
+            -0.06703765
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885979145580
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.267478,
+            -11.0974245,
+            4.414908
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885256533521
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.229778,
+            -11.164462,
+            -0.4309563
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906040659790
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.0533834,
+            -4.259285,
+            -2.087744
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887063105445
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.52838,
+            -8.746318,
+            2.3798366
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344886521114646
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7806783,
+            -14.162003,
+            0.6751649
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344888147143616
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.5242648,
+            -8.387188,
+            -3.193865
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344892484590749
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.479009,
+            -7.4558434,
+            -1.9033904
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344892303816816
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.984962,
+            -2.896984,
+            0.45968673
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891219234584
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.568371,
+            -1.4413095,
+            1.6687586
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885798493009
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.8397574,
+            -5.5572414,
+            3.3159695
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344892846148615
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.403882,
+            -13.889063,
+            4.8722005
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891399987617
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.6583402,
+            -5.370494,
+            1.7860745
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893569298813
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3920417,
+            -10.960955,
+            2.705448
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891761510250
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.207454,
+            -5.150227,
+            -2.2720973
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344884533892599
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.087071,
+            -11.018415,
+            1.4796166
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344892665368015
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.950537,
+            -12.208334,
+            1.6304513
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344890134828553
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6639702,
+            -3.7181952,
+            -2.2649148
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344885437185702
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.22037,
+            -5.8756704,
+            -1.0821792
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893026932581
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.0798235,
+            -11.523592,
+            0.61530983
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887785788775
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.926594,
+            -12.821249,
+            -1.721431
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344892123045316
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.627384,
+            -8.760683,
+            -1.4317327
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893207717814
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.272939,
+            -6.7447653,
+            -1.3982137
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893388506147
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.4436383,
+            -4.2521024,
+            -1.400608
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344889050581389
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.738359,
+            -2.4468741,
+            0.15322891
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344890315550886
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.84131,
+            -2.834735,
+            -1.7908629
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887605113359
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.080665,
+            -8.494926,
+            1.1683705
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891038487951
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.260968,
+            -4.6255975,
+            -4.2640734
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891580746350
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.055339,
+            -12.742241,
+            -1.1923125
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344890496277986
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.857293,
+            -4.805163,
+            0.17717093
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344888327825208
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.133403,
+            -5.3920417,
+            1.496376
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344891942276150
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.2747254,
+            -9.845257,
+            -1.1563994
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344890857746785
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.6314616,
+            -8.602666,
+            1.6280571
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344907124856388
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.9432502,
+            -8.6697035,
+            0.4189853
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908028398586
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.095768064,
+            -2.9161377,
+            -1.9177556
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895196403243
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.584289,
+            -7.3744407,
+            -0.51954174
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344907666982087
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.916372,
+            -9.900323,
+            -0.59855044
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908209106519
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.755895,
+            -4.039018,
+            -0.16998832
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895738770376
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.947599,
+            -15.955559,
+            2.1308396
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893750092046
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.05055,
+            -13.857939,
+            0.40222588
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344886882439695
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7136407,
+            -4.357447,
+            -2.303222
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895557980643
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7974377,
+            -7.656956,
+            0.47644615
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344884353218266
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.618649,
+            -7.75033,
+            -2.2170308
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344896823475641
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.984897,
+            -10.860398,
+            -2.0015526
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344896642700541
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.6011133,
+            -13.766959,
+            -0.011971008
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895377191943
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.960114,
+            -8.581119,
+            -0.6991069
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344888689198923
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.8756704,
+            -4.5322237,
+            0.47644615
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344909474074550
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.182063,
+            -6.502951,
+            0.09816227
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908751223118
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.7700913,
+            -6.395212,
+            -0.35913026
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344894292468978
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -16.774376,
+            -5.8277864,
+            3.8019924
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344894654044844
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.2866964,
+            -6.6394205,
+            1.4987702
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897004247174
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.805163,
+            -4.19943,
+            -0.5674258
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344894473259711
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.181156,
+            -12.363956,
+            0.91458505
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898631072505
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7070658,
+            -5.56203,
+            -0.06943185
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344890677010252
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.877223,
+            -14.185945,
+            0.6488287
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344884714558599
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.5300636,
+            -3.1794999,
+            -1.6711528
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344884895222599
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.04074,
+            -13.869909,
+            -1.5634137
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344894111676845
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.373599,
+            -2.942474,
+            -2.420538
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344887424441316
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.0089693,
+            -1.8938135,
+            -0.6751649
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344894834828710
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.345037,
+            -12.644078,
+            -0.7781156
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895015615143
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.056788,
+            -7.999327,
+            0.076614454
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344909835502583
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.745308,
+            -1.5562311,
+            -2.540248
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344893930884212
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.8594532,
+            -8.286632,
+            -0.11731588
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910196919449
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.891458,
+            -8.688857,
+            1.5011644
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344909654789383
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.3935943,
+            -8.990526,
+            0.7565677
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910016210749
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.55856,
+            -0.60333884,
+            -2.0087352
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344896461921308
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.918532,
+            -2.540248,
+            -1.8076223
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344896100349542
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.7734957,
+            -4.223372,
+            -0.3878607
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898088829639
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.300155,
+            -9.320927,
+            1.1971009
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344895919559809
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.830892,
+            -7.4917564,
+            0.320823
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910558332515
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.625767,
+            -6.977003,
+            -0.50757074
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910739038048
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.334581,
+            -3.1651347,
+            -3.7948096
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344899173286070
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.609072,
+            -9.675268,
+            1.6472107
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897185016607
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.918532,
+            -7.5875244,
+            0.4285621
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900257703001
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.8923645,
+            -2.4732103,
+            0.29209262
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898450328172
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1693807,
+            -10.771812,
+            -2.9951463
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344901342073432
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.793192,
+            -3.6296098,
+            0.82360536
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900438437234
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.830826,
+            -12.584224,
+            -0.6440403
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344899354020203
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.94672,
+            -4.402937,
+            -1.2354081
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344899534754769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.024653,
+            -13.1037655,
+            -2.0805612
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344899715490102
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.5745432,
+            -3.8474822,
+            0.18674773
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898811814671
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.113407,
+            -8.437466,
+            3.1555579
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344911823283480
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.483901,
+            -6.926725,
+            3.7588966
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900619166900
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.45099,
+            -7.604284,
+            -2.5354595
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900076964435
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.8604636,
+            -3.2800562,
+            -0.02633622
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900799895200
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.630489,
+            -10.364799,
+            -3.6296098
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344897727314839
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.969044,
+            -4.908413,
+            -3.7134068
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344899896226535
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.9187,
+            -7.7215996,
+            2.6431987
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910919744648
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.6059017,
+            -8.037635,
+            0.10534488
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344911281158948
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.4723687,
+            -10.609007,
+            0.39264908
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344911100452348
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.9418664,
+            -5.23163,
+            0.8714894
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344911461864914
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.8700404,
+            -8.217199,
+            2.3535004
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912003994146
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7908629,
+            -4.781221,
+            -3.763685
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344901161348299
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.951378,
+            -6.938696,
+            3.1962593
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344901522796265
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.994604,
+            -5.2148705,
+            0.79726917
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912546125544
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.4837976,
+            -9.002498,
+            0.6871359
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912365414578
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.847819,
+            -12.158055,
+            3.229778
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344903691420262
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.28333,
+            -13.496414,
+            1.340753
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344900980621366
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.8267107,
+            -9.105449,
+            1.0271125
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902968555829
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.1533976,
+            -7.3385277,
+            4.6112323
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912184704812
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.992986,
+            -7.0153103,
+            0.80924016
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344910377626982
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.3446999,
+            -4.2066126,
+            -1.745373
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344903149273929
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.706327,
+            -8.3512745,
+            1.8962077
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344903329990262
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.047146,
+            -5.844546,
+            -0.9911995
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344901884236365
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.525275,
+            -5.612308,
+            -1.7908629
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912726833310
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.533235,
+            -5.6194906,
+            -2.4013844
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344911642573280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.972991,
+            -17.662624,
+            3.1364043
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902426400364
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.797373,
+            -3.643975,
+            0.016759412
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344903510706762
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.965743,
+            -10.745477,
+            -1.7142484
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344902787837363
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.8261685,
+            -7.0871363,
+            -0.22505496
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904414264727
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.5428762,
+            -4.285621,
+            -1.4508862
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344905317833692
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.608296,
+            -5.4135895,
+            -1.9608512
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904233553061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.8141975,
+            -12.730269,
+            -0.1364695
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344898992552504
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.356905,
+            -12.8092785,
+            3.6463692
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904052842295
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.4997807,
+            -9.004891,
+            2.695871
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904775694593
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.2154129,
+            -4.6375685,
+            1.1994951
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344903872132095
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.553941,
+            -10.941801,
+            5.2005053
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904594980293
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.546823,
+            -3.2680852,
+            0.7374141
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906402063790
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.378453,
+            -10.400711,
+            -1.2665327
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344905137121659
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.010522,
+            -7.024887,
+            1.8195933
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906763457356
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.639356,
+            -12.270583,
+            3.4763808
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344907847690120
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.637737,
+            -7.0631943,
+            -0.92416185
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344912907539776
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.731888,
+            -10.453383,
+            3.2010477
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913088247442
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.992986,
+            -6.452673,
+            1.163582
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913268956742
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.5084505,
+            -7.642591,
+            -1.2138603
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906582760023
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.038476,
+            -6.366482,
+            -1.8962077
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344907486272321
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.379098,
+            -7.8365216,
+            0.78769237
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344905498542825
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.2412066,
+            -7.2355766,
+            3.0454245
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344905859953924
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.201217,
+            -8.032846,
+            -0.50996494
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344905679247958
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.030452,
+            -8.214806,
+            -2.5617957
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913630376641
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.0916905,
+            -10.814908,
+            -0.079008654
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913449666375
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.6737156,
+            -5.8756704,
+            0.7254431
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913811091174
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.261913,
+            -6.6274495,
+            2.2649148
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344914172526240
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.580212,
+            -7.5994954,
+            2.9352913
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344913991809074
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.272331,
+            -12.936172,
+            0.6967127
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344914353243740
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.612308,
+            -11.473314,
+            0.94570965
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344914533961573
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.4502788,
+            -4.9036245,
+            0.28491
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344914714678839
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.636961,
+            -8.269872,
+            -1.30484
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915076111072
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.948142,
+            -8.454226,
+            1.7357962
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344914895396139
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.696816,
+            -9.378387,
+            -0.14844051
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915618257671
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1526213,
+            -6.950667,
+            2.2266076
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915256826338
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.1733274,
+            -6.902783,
+            -0.34715924
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908389810885
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.969755,
+            -9.859622,
+            1.0773908
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906221362690
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.954679,
+            -11.324873,
+            0.93134445
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915437543071
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.6856866,
+            -8.990526,
+            0.019153614
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344909293358384
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.538023,
+            -7.6856866,
+            -0.37349546
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908570515818
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.889194,
+            -6.893206,
+            3.526659
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344908931931818
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.147833,
+            -3.9360676,
+            -0.40940848
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915798973637
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3872533,
+            -8.554782,
+            0.91219085
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344907305562921
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.317821,
+            -7.5659766,
+            5.222053
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344906944155922
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.012682,
+            -11.554717,
+            -0.5386954
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344904956407993
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.7948096,
+            -12.600983,
+            -0.7326257
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344909112643651
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.621885,
+            -7.367258,
+            -0.33518824
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344916702616969
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.285855,
+            -5.2292356,
+            -1.2904748
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917064108368
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.253889,
+            -10.338462,
+            -0.79008657
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344916883361635
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.8043866,
+            -7.3217683,
+            0.40940848
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917606359767
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.734347,
+            -6.1055136,
+            -0.8523358
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917967867533
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.395212,
+            -6.917148,
+            3.3494883
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344918510134131
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.807015,
+            -4.7860093,
+            0.21787235
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919052400597
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.927371,
+            -8.384793,
+            1.6208745
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919233160997
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.833351,
+            -9.404723,
+            0.6655881
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919594687196
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.372823,
+            -7.898771,
+            0.050278235
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919413922230
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.0200987,
+            -6.4095774,
+            0.40940848
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919956222362
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1693807,
+            -8.248324,
+            -0.7422025
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344919775454496
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.652945,
+            -7.8101854,
+            0.15562311
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344920136992095
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.630555,
+            -7.249942,
+            0.5530606
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344920317765928
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.1278377,
+            -6.3138094,
+            2.1212628
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344920498547061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.6513915,
+            -11.657667,
+            0.2825158
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344920679333961
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.947431,
+            -5.8541226,
+            0.062249243
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921221724360
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.6662993,
+            -7.4295073,
+            0.6368576
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344920860126627
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.957007,
+            -8.190864,
+            6.6633625
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921583326593
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.6152446,
+            -11.0495405,
+            -2.7102363
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921944923526
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.29213,
+            -7.2834606,
+            -0.9624691
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344922306520892
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.8715925,
+            -10.180445,
+            2.171541
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344922487318992
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.9600096,
+            -11.080665,
+            -1.388637
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344922848915791
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.822998,
+            -8.6697035,
+            1.8195933
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344922668117258
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.177275,
+            -8.236353,
+            -1.0414777
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923210518390
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.881235,
+            -7.412748,
+            3.4261026
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923572132089
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.4414783,
+            -6.476615,
+            -1.6400281
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923029715757
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.255572,
+            -11.044752,
+            -0.038307227
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923752942289
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.931448,
+            -6.9339075,
+            0.2873042
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923391324356
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.789479,
+            -5.245995,
+            -0.6991069
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344924114571489
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.184457,
+            -6.9602437,
+            -0.6895301
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344924476210788
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.220435,
+            -9.091084,
+            -0.14844051
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344923933755289
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.213187,
+            -9.273043,
+            3.0597897
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344924657031988
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.667244,
+            -6.218041,
+            2.7126305
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344924837856721
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3144168,
+            2.4181437,
+            7.1398087
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925561169487
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5873557,
+            3.1914709,
+            6.8165917
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925742001887
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.7325604,
+            1.6065093,
+            10.668862
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344926103662787
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9273324,
+            4.6040497,
+            9.541193
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925922832387
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.952995,
+            -10.927436,
+            4.1036615
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344916341141836
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.108619,
+            -7.994539,
+            -1.352724
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344915979692370
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.837233,
+            -7.4534492,
+            1.067814
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917244856668
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.253954,
+            -6.670545,
+            2.585738
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344916160413803
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.759673,
+            -7.034464,
+            3.9025488
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344916521876536
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.857227,
+            -11.159674,
+            3.2345665
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917425607301
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.3856354,
+            -10.283396,
+            -1.6232687
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344917787113700
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.153333,
+            -7.4223247,
+            -0.521936
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344918148622399
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.6473794,
+            -9.273043,
+            0.035913024
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344918871642864
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0909145,
+            -10.582671,
+            -0.4237737
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344918690887531
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.111013,
+            -7.142203,
+            -0.7541735
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344918329378365
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.668927,
+            -5.770325,
+            -1.0151415
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921040924660
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.148544,
+            -6.9195423,
+            1.6017209
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921402525060
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.4055653,
+            -9.9673605,
+            3.6152446
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344921764125593
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.286632,
+            -7.8844056,
+            -2.0231004
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344922125721926
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.855544,
+            -8.602666,
+            1.0845734
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344924295389755
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3226094,
+            0.047884032,
+            2.6288335
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925018681954
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4165258,
+            3.3135753,
+            5.990592
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925199507754
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.743755,
+            3.928885,
+            10.3097315
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344925380337854
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.25139117,
+            3.9911342,
+            7.7072344
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344928998583000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.8571242,
+            2.789245,
+            9.703999
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344929179221000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.649643,
+            -10.2379055,
+            1.5179238
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344929540575500
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.016694,
+            -5.918766,
+            -1.0582372
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344929359896500
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.91937345,
+            4.2664676,
+            8.928277
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344928817968000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.982568,
+            5.729624,
+            3.5434184
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344935865589494
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.610559,
+            -7.712023,
+            0.22984336
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936046336560
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.6943185,
+            -7.9658084,
+            -3.0262709
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344935504095495
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.090372,
+            3.1028855,
+            -1.5011644
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936227085360
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.6519337,
+            -3.2872388,
+            -0.29688102
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936407837326
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.1270614,
+            -6.2850785,
+            -1.8794483
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344943277105078
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.8602295,
+            -3.9073372,
+            -4.292804
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944542350076
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4452562,
+            -1.8363527,
+            4.510676
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944361598543
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.201217,
+            7.204452,
+            -5.777508
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944723104809
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -21.167736,
+            3.7014358,
+            0.21068975
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945084625675
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.7844565,
+            -10.161291,
+            -2.5330653
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930263271758
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.698369,
+            -11.751041,
+            2.6192567
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932070267914
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.5069633,
+            -10.415076,
+            -6.395212
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344931889547562
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.181156,
+            -15.014637,
+            -2.6408045
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932973890135
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -19.036896,
+            -4.402937,
+            3.8977604
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344933877521319
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.345476,
+            -1.3503298,
+            -1.3599066
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930986019673
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.36564,
+            -4.88896,
+            0.9911995
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930443952633
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1454387,
+            1.7884687,
+            -5.894824
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344931528121437
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.59626,
+            -13.139678,
+            5.2603602
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930082599616
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.570635,
+            -9.5795,
+            1.1779473
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932250989691
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.1909285,
+            -6.2946553,
+            3.2944214
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932431714217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.503662,
+            -5.832575,
+            0.8523358
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344931347415723
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.066235,
+            -6.902783,
+            2.1619642
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930624637855
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.858911,
+            -13.350368,
+            -3.9504328
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934058245711
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.743082,
+            -5.123891,
+            -0.7110779
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344931166713339
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -16.669031,
+            2.0494366,
+            -0.2825158
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934600422030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -18.933945,
+            -14.985907,
+            3.3614593
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344929721257750
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.6727054,
+            -0.30885202,
+            -1.6376339
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344933696797208
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.6495395,
+            2.492364,
+            -1.2785037
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344929901927950
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.717419,
+            -7.9059534,
+            -5.4255605
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344933154616178
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.3861775,
+            -7.8221564,
+            -5.7870846
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932612439817
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.457396,
+            -2.9855695,
+            -8.174104
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344931708831437
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.107842,
+            -11.789349,
+            -1.9680338
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344930805328855
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.354445,
+            -1.5849615,
+            3.7445314
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934238969297
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.645697,
+            -9.107842,
+            4.357447
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344933335343678
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.110171,
+            0.6967127,
+            1.4030021
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344935323351562
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -25.910948,
+            -5.540482,
+            -1.9776106
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344948700086335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.2531776,
+            1.9321208,
+            -5.028123
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934781150263
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.980108,
+            -3.7900212,
+            3.9480386
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344932793164817
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6950948,
+            -1.2593501,
+            -3.3566709
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344935684842728
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -16.319477,
+            -12.4429655,
+            -3.5338416
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344933516071478
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.365575,
+            1.7597382,
+            -0.093373865
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344935142612629
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.899547,
+            -0.58897364,
+            1.697489
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934419695197
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.600206,
+            -12.610559,
+            2.6862943
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344934961880029
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.920384,
+            4.1012673,
+            -0.62967503
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344950327080832
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.39983168,
+            -5.219659,
+            -2.3989902
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936950106358
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -36.01478,
+            4.1180267,
+            -1.8028339
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936769347592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.2890906,
+            -5.7727194,
+            -1.448492
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344937130867124
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.264307,
+            -3.3758245,
+            -0.79966336
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344936588591959
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.4244847,
+            1.3862427,
+            0.18195933
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951050185431
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.541128,
+            -2.2649148,
+            7.4199305
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344937311630790
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.107001,
+            -1.7525556,
+            -1.3958195
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344937492395523
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.7022123,
+            -5.4375315,
+            -1.7477672
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938396266688
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.289867,
+            -8.348881,
+            0.16280572
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938034708222
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.561188,
+            -3.0502129,
+            -0.6943185
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344939300176553
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.4143,
+            8.557177,
+            -4.5657425
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344952315588761
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.451831,
+            -4.9969983,
+            -5.602731
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344937673164256
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.548376,
+            -4.644751,
+            -4.3646297
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940023293351
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.68174,
+            -4.560954,
+            -1.2689269
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344939119393053
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -33.565212,
+            -0.39025488,
+            -2.4516625
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938215485755
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -28.116009,
+            -14.870985,
+            4.817134
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938757828087
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.378322,
+            -13.49402,
+            3.145981
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344939480957219
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3800707,
+            4.0342298,
+            -3.7062242
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344939661737452
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.385505,
+            -4.285621,
+            -0.2705448
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344939842515285
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.38557,
+            -0.581791,
+            4.8099513
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940384845917
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            7.3912,
+            -4.2161894,
+            0.770933
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344952857886727
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.0590134,
+            -0.24420857,
+            0.36870706
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940204069284
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -26.049812,
+            -0.33518824,
+            -2.1164744
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344941288702248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -17.236456,
+            -5.3872533,
+            -0.80205756
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938938608853
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3934253,
+            -4.546589,
+            -4.510676
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344938577047554
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.766313,
+            8.085519,
+            1.6950948
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344941107930782
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.80924016,
+            -1.2282255,
+            -1.4149733
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940746392149
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -24.239496,
+            -3.4955344,
+            0.37588966
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344941650249914
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.765537,
+            3.4883518,
+            -3.3446999
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344941831024547
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.676821,
+            -5.0353055,
+            -1.7788919
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344937853934456
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -19.079992,
+            3.13401,
+            2.2170308
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940565620883
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.685518,
+            0.5530606,
+            -0.25857377
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942373333979
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -17.006613,
+            -5.940314,
+            -0.7254431
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344943638600544
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.1435869,
+            -6.095937,
+            -3.7804444
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344941469475681
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.253823,
+            -2.7748797,
+            -3.892972
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942554096779
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.562806,
+            3.3159695,
+            0.12210429
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942915608345
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.269741,
+            8.071154,
+            0.49081135
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344943457853311
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -21.03366,
+            -4.745308,
+            -2.4947581
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344940927161382
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.731953,
+            -3.6894648,
+            -0.40462008
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942011797513
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7357962,
+            -3.6343982,
+            3.7708676
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942734853912
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -32.171787,
+            2.1212628,
+            -3.8402996
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344942192566779
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -18.359337,
+            -1.2306197,
+            1.316811
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344943096357745
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -29.669846,
+            7.580342,
+            -1.7429788
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944000094977
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.50517654,
+            2.822764,
+            -0.61052144
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944180846377
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -39.37863,
+            1.5682021,
+            -8.691252
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953400189560
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -51.66358,
+            6.0576296,
+            -5.576395
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953038653960
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.833117,
+            6.6753335,
+            2.348712
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953219421960
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            7.403171,
+            -9.541193,
+            -2.3894134
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344943819346844
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.066196,
+            4.2161894,
+            0.1340753
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953942486592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6184803,
+            -8.995315,
+            6.2012815
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344954123247392
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            8.415918,
+            -8.183681,
+            -5.23163
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953580956826
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -32.176575,
+            -1.2952632,
+            7.1852984
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344953761723092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.8275523,
+            3.6176388,
+            0.8355764
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344944903863975
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.537892,
+            6.9722147,
+            3.8067808
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344954484771258
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.134244,
+            3.4045548,
+            0.7781156
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945626924774
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.016928,
+            -1.910573,
+            -2.7605145
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945807693074
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.553875,
+            -0.37588966,
+            0.47165772
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947615428504
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.846706,
+            -9.021651,
+            -4.7884035
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344946530786372
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.7429137,
+            6.0073514,
+            1.4101849
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947434656304
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.62249243,
+            -3.3159695,
+            -5.770325
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947796199570
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.3957543,
+            -11.940183,
+            0.6679823
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947073114038
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -20.940287,
+            -9.490914,
+            -2.4851813
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945988462640
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -29.545347,
+            -9.17488,
+            -1.1563994
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955027050590
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            8.145373,
+            -7.537246,
+            1.472434
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344954846292424
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.735965,
+            6.77589,
+            1.4987702
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955207807656
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -22.637775,
+            -1.9895816,
+            9.814132
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955388566222
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.359299,
+            -4.4005427,
+            -1.0319009
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955569324922
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -17.114353,
+            2.372654,
+            -4.9395375
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344948338523502
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.1507695,
+            -11.344027,
+            -6.4119716
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344954304008792
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.38067806,
+            -9.10066,
+            -1.2162545
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955750084155
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -36.225468,
+            9.783008,
+            -11.207558
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947253885004
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -38.265327,
+            1.4437037,
+            -13.43656
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344946350009206
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.191574,
+            7.791032,
+            0.60094464
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344946711564172
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.26586,
+            3.7780502,
+            3.2345665
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949603974234
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -27.99151,
+            -6.799832,
+            19.50616
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949784750600
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -18.759169,
+            9.225159,
+            -5.5716066
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344947976971936
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3024458,
+            -3.8187518,
+            -7.4654202
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945265389241
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.221081,
+            5.358523,
+            0.16998832
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344946892340472
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.624925,
+            8.873211,
+            -4.5753193
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344945446155541
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.6279917,
+            -8.011298,
+            -4.596867
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344956473123621
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -30.00264,
+            -5.856517,
+            -0.22026655
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344954665532924
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.4495025,
+            -5.4758387,
+            -8.437466
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949965527566
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.5516114,
+            -5.6410384,
+            3.4237084
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344956292364788
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.22505496,
+            -3.8522706,
+            -2.896984
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949242419968
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -21.981764,
+            3.7780502,
+            -7.803003
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957196155287
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.5316815,
+            7.621043,
+            2.0470424
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344946169233873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.135732,
+            9.859622,
+            -0.1388637
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344956653880954
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.4111953,
+            -5.624279,
+            4.5202527
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344950507856965
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0454245,
+            -1.4197617,
+            1.0845734
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344956111605588
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.0807953,
+            4.673482,
+            1.42455
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957376918120
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.544298,
+            9.445425,
+            0.18195933
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344955930845088
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.548441,
+            8.806173,
+            3.9336734
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344948880865335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.728006,
+            -10.482115,
+            -9.292196
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957015394887
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.023942016,
+            6.1677628,
+            -1.9369092
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344948157746669
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.838916,
+            6.61069,
+            1.1755531
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951592521063
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.9895816,
+            -2.717419,
+            -1.6352397
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344948519304035
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -27.634773,
+            -2.942474,
+            4.2185836
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949423197834
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.7325604,
+            -5.135862,
+            -4.3646297
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344952134825695
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -29.231707,
+            0.61770403,
+            4.8219223
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344950146304466
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -32.667385,
+            -4.0797195,
+            3.0142999
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344956834637254
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.932897,
+            -7.4654202,
+            -6.182128
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957738447153
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -17.10238,
+            5.945102,
+            -1.6089035
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957919212986
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -29.29635,
+            1.436521,
+            2.6839
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344949061643168
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.081507,
+            -7.7455416,
+            0.8331822
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344957557681953
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.4125137,
+            2.1164744,
+            2.9759927
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344958099978752
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.5561657,
+            0.1436521,
+            3.2513258
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344958461507285
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.216292,
+            3.6104562,
+            12.215516
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344958280742985
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.6968813,
+            -6.464644,
+            -3.0909145
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344950688632565
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.542811,
+            -2.719813,
+            1.5251064
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951954060995
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.885181,
+            4.498705,
+            2.791639
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344952496353794
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.888352,
+            7.412748,
+            3.8259344
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344950869409065
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0909145,
+            -5.746383,
+            -3.2393548
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951411742730
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.7966614,
+            -1.5442601,
+            0.01436521
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951230963997
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -12.385505,
+            2.1068976,
+            -1.8483237
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344952677120294
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.8004397,
+            4.982633,
+            3.4332852
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344951773293529
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9879637,
+            5.8277864,
+            8.162133
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344959003793683
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2066777,
+            3.2968156,
+            5.765537
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344958823032517
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.3391352,
+            3.454833,
+            10.948983
+        ],
+        "experimentId": 8,
+        "patientId": 0,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 344958642270351
+    }
+]
